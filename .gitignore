@@ -1,0 +1,4 @@
+/venv
+/pelican-themes
+.vscode/
+__pycache__/

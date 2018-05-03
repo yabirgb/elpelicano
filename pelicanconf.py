@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'Python Granada'
 SITENAME = 'python-granada'
 SITEURL = ''
+# THEME_STATIC_DIR = 'pelican-themes'
+# THEME = 'bootstrap2'
 
 PATH = 'content'
 

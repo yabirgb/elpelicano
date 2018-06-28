@@ -1,0 +1,14 @@
+[[source]]
+verify_ssl = true
+name = "pypi"
+url = "https://pypi.org/simple"
+
+[requires]
+python_version = "3.6"
+
+[packages]
+pelican = "==3.7.1"
+ghp-import = "==0.5.5"
+Markdown = "==2.6.11"
+
+[dev-packages]
